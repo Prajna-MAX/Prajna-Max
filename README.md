@@ -1,2 +1,2 @@
  
-![](https://leetcard.jacoblin.cool/PRAJNA-leet?ext=heatmap)
+![](https://leetcard.jacoblin.cool/Prajna?ext=heatmap)
